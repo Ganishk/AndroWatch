@@ -41,5 +41,3 @@
          />
      </View>
  )
- 
- //export default Home;
